@@ -25,7 +25,7 @@ Application for tracking your budget Online or offline!
 
 ## Installation
 
-No installation required. To use, go to: [My Heroku App]()
+No installation required. To use, go to: [My Heroku App](https://budget-tracker-x.herokuapp.com/)
 
 ## Features
 See example of features in usage section Demo
